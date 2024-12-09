@@ -1,0 +1,3 @@
+Back to Basic: Lambdas CppCon 2021
+Back to Basics: Smart Pointers CppCon 2022
+Back to Basics: Perfect Forwarding CppCon 2023
